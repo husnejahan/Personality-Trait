@@ -3,6 +3,10 @@
 "2017 Chalearn Looking at People Workshop CVPR" 
 http://chalearnlap.cvc.uab.es/workshop/22/description/
 
+The first impressions data set, comprises 10000 clips (average duration 15s) extracted from more than 3,000 different YouTube high-definition (HD) videos of people facing and speaking in English to a camera. The videos are split into training, validation and test sets with a 3:1:1 ratio. People in videos show different gender, age, nationality, and ethnicity.
+
+https://github.com/tzzcl/ChaLearn-APA-Code
+
 http://chalearnlap.cvc.uab.es/dataset/20/results/34/
 
 
